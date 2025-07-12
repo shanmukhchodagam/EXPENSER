@@ -12,7 +12,8 @@ To simplify group spending during trips by providing a transparent, real-time, a
 
 ---
 
-## 🔑 Core Features
+## 🔑 Cor<img width="1956" height="1768" alt="EXPENSER" src="https://github.com/user-attachments/assets/6c3490e4-fa7a-4f50-83da-819f4716203a" />
+e Features
 
 ### 🧭 Trip Management
 
@@ -121,6 +122,7 @@ trip-expense-app/
 * Implement **user authentication** with Firebase Auth or Auth0
 
 ---
+<img width="1956" height="1768" alt="EXPENSER" src="https://github.com/user-attachments/assets/2361cb79-dec8-4c81-aeb4-df55a75d4a28" />
 
 ## 📞 Contact & Contributions
 
