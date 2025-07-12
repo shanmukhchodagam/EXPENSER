@@ -12,8 +12,7 @@ To simplify group spending during trips by providing a transparent, real-time, a
 
 ---
 
-## 🔑 Cor<img width="1956" height="1768" alt="EXPENSER" src="https://github.com/user-attachments/assets/6c3490e4-fa7a-4f50-83da-819f4716203a" />
-e Features
+## 🔑 Core Features
 
 ### 🧭 Trip Management
 
